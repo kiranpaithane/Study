@@ -1,2 +1,2 @@
 d = {1: 'Geeks', 2: 'For', 3: 'Geeks'}
-print(d)
+b = {1: 'Geeks', 2: 'For', 3: 'Geeks'}
